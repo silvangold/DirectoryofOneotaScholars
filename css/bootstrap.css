@@ -1294,11 +1294,8 @@ p {
   font-size: 16px;
   font-weight: 300;
   line-height: 1.4;
+  text-align: center;
 }
-@media (min-width: 768px) {
-  .lead {
-    font-size: 21px;
-  }
 .other {
   margin-bottom: 20px;
   font-size: 16px;
@@ -1307,6 +1304,9 @@ p {
   text-align: left;
 }
 @media (min-width: 768px) {
+  .lead {
+    font-size: 21px;
+  }
   .other {
     font-size: 21px;
   }  

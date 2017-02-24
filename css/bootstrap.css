@@ -6,7 +6,7 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /* Dropdown Button */
 .dropbtn {
-    background-color: #000000;
+    background-color: #101010;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -48,7 +48,7 @@
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {
-    background-color: #000000;
+    background-color: #101010;
 }
 
 html {

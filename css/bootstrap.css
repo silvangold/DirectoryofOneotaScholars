@@ -25,28 +25,20 @@
 	text-decoration:none;
 }
 
-/* Footer Wrap */
-#footer {
-	position: fixed;
-	background: #2d2d2d;
-	padding-top: 15px;
-	padding-bottom: 0px; 
-	bottom:0;
-	width:100%;
-	height:10%;
+/**
+ * Footer Styles
+ */
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
 
-
-
-#footer i {
-	color: #bdbdbd;
-	font-size: 30px;
-	padding: 20px;
-}
-
-#footer i:hover {
-	color: #66cfff;
-}
 
 .dropbtn {
     background-color: #222222;

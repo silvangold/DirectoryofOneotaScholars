@@ -5,25 +5,6 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-/* Footer*/
-
-html, body {
-  height: 100%;
-  margin: 0;
-}
-.content {
-  min-height: 100%;
-}
-.content-inside {
-  padding: 20px;
-  padding-bottom: 50px;
-}
-.footer {
-  height: 50px;
-  margin-top: -50px;
-  color: #101010
-}
-
 /* Scroll to top */
 .scrollToTop{
 	width:100px; 

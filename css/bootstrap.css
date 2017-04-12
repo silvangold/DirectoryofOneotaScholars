@@ -28,6 +28,15 @@
 /**
  * Footer
  */
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #000000;
+  text-align: center;
+}
 
 .dropbtn {
     background-color: #222222;

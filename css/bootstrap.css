@@ -25,20 +25,6 @@
 	text-decoration:none;
 }
 
-/**
- * Footer
- */
-footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  background-color: #000000;
-  text-align: center;
-	height: 10px;
-}
-
 .dropbtn {
     background-color: #222222;
     color: #9d9d9d;

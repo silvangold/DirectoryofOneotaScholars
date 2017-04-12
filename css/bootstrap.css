@@ -20,6 +20,7 @@ html, body {
 .footer {
   height: 50px;
   margin-top: -50px;
+  color: #101010
 }
 
 /* Scroll to top */

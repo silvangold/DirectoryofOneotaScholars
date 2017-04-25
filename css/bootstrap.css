@@ -1378,10 +1378,7 @@ h6,
   font-size: 12px;
 }
 p {
-  margin: 0 0 10px;
-  text-align: justify;
-  -moz-text-align-last: left;
-  text-align-last: left;	
+  margin: 0 0 10px;	
 }
 .lead {
   margin-bottom: 20px;

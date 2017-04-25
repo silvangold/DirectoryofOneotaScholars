@@ -85,12 +85,6 @@ body {
   height:100%;
 }
 
-p {
-  text-align: justify;
-  -moz-text-align-last: left;
-  text-align-last: left;
-}
-
 #wrapper {
 	min-height:100%;
 	position:relative;
@@ -1385,6 +1379,9 @@ h6,
 }
 p {
   margin: 0 0 10px;
+  text-align: justify;
+  -moz-text-align-last: left;
+  text-align-last: left;	
 }
 .lead {
   margin-bottom: 20px;

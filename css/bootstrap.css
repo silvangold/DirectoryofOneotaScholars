@@ -85,6 +85,12 @@ body {
   height:100%;
 }
 
+p {
+  text-align: justify;
+  -moz-text-align-last: left;
+  text-align-last: left;
+}
+
 #wrapper {
 	min-height:100%;
 	position:relative;
